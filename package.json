@@ -1,0 +1,8 @@
+{
+  "name": "ifgf-form-filler",
+  "version": "1.0.0",
+  "description": "Press No to all Covid related stuff and select nearest attendance date",
+  "main": "index.js",
+  "author": "Samuel Razali",
+  "license": "MIT"
+}
